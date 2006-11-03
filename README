@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1701
+
+removes the trailing space from the file when user will save   any changes
+
+To force the time stamp to be not updated, use the command:
+             		:NOMODSP
+To change it back, use
+             		:MODSP
+
